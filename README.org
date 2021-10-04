@@ -2,3 +2,4 @@
 - [[https://pvk.ca/Blog/2014/08/16/how-to-define-new-intrinsics-in-sbcl/][Defining SBCL intrinsics]]
 - [[https://pvk.ca/Blog/2014/03/15/sbcl-the-ultimate-assembly-code-breadboard/][SBCL: the ultimate assembly code breadboard]]
 - [[https://pvk.ca/Blog/2013/11/22/the-weaknesses-of-sbcls-type-propagation/][Weaknesses of SBCL's type propagation]] 
+- [[https://link.springer.com/book/10.1007%2F978-1-4842-6428-7][Programming algorithms in lisp (book)]]
