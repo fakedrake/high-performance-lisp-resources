@@ -1,0 +1,2 @@
+- [[https://www.reddit.com/r/Common_Lisp/comments/q07rij/how_to_speed_up_array_writes/][speed up array writes]]
+- [[https://pvk.ca/Blog/archives/][Paul Khuong's Blog is gold]]
